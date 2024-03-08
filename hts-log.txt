@@ -1,0 +1,42 @@
+HTTrack3.49-2 launched on Tue, 05 Mar 2024 23:43:00 at https://www.myopt.org/
+(winhttrack https://www.myopt.org/ -O "/Users/charlieliu/Downloads/webcopy/webcopy" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:46:50	Error: 	"Not Found" (404) at link https://www.myopt.org/media/emptystate.85a4add5.svg (from https://www.myopt.org/)
+23:47:05	Error: 	"Not Found" (404) at link https://www.myopt.org/feed.xml (from https://www.myopt.org/)
+23:47:05	Error: 	"Not Found" (404) at link https://www.myopt.org/${n.uri} (from https://www.myopt.org/)
+23:47:05	Error: 	"Not Found" (404) at link https://www.myopt.org/decodeURIComponent(e (from https://www.myopt.org/)
+23:49:15	Error: 	"Not Found" (404) at link https://www.myopt.org/offer/sitemap.xml (from https://www.myopt.org/offer/customer-support-engineer)
+23:49:15	Error: 	"Not Found" (404) at link https://www.myopt.org/offer/feed.xml (from https://www.myopt.org/offer/customer-support-engineer)
+23:49:17	Error: 	"Not Found" (404) at link https://www.myopt.org/post/sitemap.xml (from https://www.myopt.org/post/2024-h1b改革：除了一人一抽，还有什么变化？)
+23:49:17	Error: 	"Not Found" (404) at link https://www.myopt.org/post/feed.xml (from https://www.myopt.org/post/2024-h1b改革：除了一人一抽，还有什么变化？)
+23:49:18	Error: 	"Not Found" (404) at link https://www.myopt.org/myjob/sitemap.xml (from https://www.myopt.org/myjob/business-ingelligence-analyst)
+23:49:18	Error: 	"Not Found" (404) at link https://www.myopt.org/myjob/feed.xml (from https://www.myopt.org/myjob/business-ingelligence-analyst)
+23:50:07	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/page/sitemap.xml (from https://www.myopt.org/blog/page/2)
+23:50:07	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/page/feed.xml (from https://www.myopt.org/blog/page/2)
+23:50:25	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/categories/sitemap.xml (from https://www.myopt.org/blog/categories/求职干货)
+23:50:25	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/categories/feed.xml (from https://www.myopt.org/blog/categories/求职干货)
+23:51:13	Error: 	"Not Found" (404) at link https://www.myopt.org/offer/media/sitemap.xml (from https://www.myopt.org/offer/media/emptystate.85a4add5.svg)
+23:51:13	Error: 	"Not Found" (404) at link https://www.myopt.org/offer/media/feed.xml (from https://www.myopt.org/offer/media/emptystate.85a4add5.svg)
+23:51:20	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.myopt.org/blog/tags/robots.txt (from https://www.myopt.org/blog/tags/留学生)
+23:51:20	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/tags/sitemap.xml (from https://www.myopt.org/blog/tags/留学生)
+23:51:20	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/tags/feed.xml (from https://www.myopt.org/blog/tags/留学生)
+23:51:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.myopt.org/blog/tags/${n.uri} (from https://www.myopt.org/blog/tags/留学生)
+23:51:57	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/categories/法律干货/page/sitemap.xml (from https://www.myopt.org/blog/categories/法律干货/page/2)
+23:51:57	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/categories/法律干货/page/feed.xml (from https://www.myopt.org/blog/categories/法律干货/page/2)
+23:52:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.myopt.org/blog/tags/facebook (from https://www.myopt.org/post/data-science)
+23:52:05	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/tags/留学生/page/sitemap.xml (from https://www.myopt.org/blog/tags/留学生/page/2)
+23:52:05	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/tags/留学生/page/feed.xml (from https://www.myopt.org/blog/tags/留学生/page/2)
+23:52:08	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/tags/北美求职/page/sitemap.xml (from https://www.myopt.org/blog/tags/北美求职/page/2)
+23:52:08	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/tags/北美求职/page/feed.xml (from https://www.myopt.org/blog/tags/北美求职/page/2)
+23:52:29	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/tags/北美留学/page/sitemap.xml (from https://www.myopt.org/blog/tags/北美留学/page/2)
+23:52:29	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/tags/北美留学/page/feed.xml (from https://www.myopt.org/blog/tags/北美留学/page/2)
+23:52:30	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/hashtags/sitemap.xml (from https://www.myopt.org/blog/hashtags/SQL)
+23:52:30	Error: 	"Not Found" (404) at link https://www.myopt.org/blog/hashtags/feed.xml (from https://www.myopt.org/blog/hashtags/SQL)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 33 seconds : 304 links scanned, 272 files written (329325042 bytes overall) [71556929 bytes received at 124881 bytes/sec], 329407110 bytes transferred using HTTP compression in 299 files, ratio 21%
+(28 errors, 3 warnings, 0 messages)
